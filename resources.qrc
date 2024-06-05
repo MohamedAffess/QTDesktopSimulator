@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>check_checked.png</file>
+        <file>check_unchecked.png</file>
+        <file>down_arrow.png</file>
+        <file>logo-luceor.png</file>
+        <file>ManagementIcon.png</file>
+        <file>menu.png</file>
+        <file>ProductsIcon.png</file>
+        <file>SimulationIcon.png</file>
+        <file>antenna.png</file>
+        <file>channel.png</file>
+        <file>meshRouter.png</file>
+        <file>modulation.png</file>
+        <file>antennas.png</file>
+        <file>interfaces.png</file>
+        <file>links.png</file>
+        <file>nodes.png</file>
+        <file>addIcon.png</file>
+        <file>app_icon.png</file>
+        <file>deleteIcon.png</file>
+        <file>infoIcon-24.png</file>
+        <file>editIcon.png</file>
+        <file>firmwareIcon.png</file>
+        <file>restartIcon.png</file>
+        <file>showLinksIcon.png</file>
+        <file>startIcon.png</file>
+        <file>stopIcon.png</file>
+        <file>addLinks.png</file>
+        <file>configureIcon.png</file>
+        <file>closeIcon.png</file>
+        <file>returnIcon.png</file>
+        <file>cancelIcon.png</file>
+        <file>submitIcon.png</file>
+        <file>topology.png</file>
+        <file>trafic.png</file>
+        <file>snr.png</file>
+        <file>interface_icon.png</file>
+        <file>node_icon.png</file>
+        <file>toggleButton.png</file>
+        <file>simulate.png</file>
+        <file>pushDataIcon.png</file>
+        <file>offButton.png</file>
+        <file>onButton.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>style.qss</file>
+    </qresource>
+</RCC>
